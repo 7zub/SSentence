@@ -1,0 +1,249 @@
+Characteristics;Online crowdfunding constrains users to know little about each persons' characteristics, and there is no guarantee of the entrepreneurs' true intentions.;[1:79]
+Characteristic;Online crowdfunding constrains users to know little about each persons' characteristics, and there is no guarantee of the entrepreneurs' true intentions.;[1:79]
+Characterize;Can be regulated by the functions that control its life cycle, characterized by a set of inherent attributes and the methods that characterize its properties and relationships with other resources.;[2:31]
+Peculiarity;--
+Peculiar;The peculiarities of this protocol are "the ability to save system states and the assignment of the corresponding identifier to each state".;[2:130]
+Specific;Specifically, we use the significant variables found within multiple regression analyses to identify probabilistic causal features to help predict funding success.;[1:37]
+Unique;Such an analysis can provide unique implications on how investors interpret each side of the entrepreneurial narrative.;[1:35]
+Common;Information object is the most common concept in the system, representing an arbitrary unit of information in the information system.;[2:42]
+Special;To be able to take this into account, it is necessary to compile special conceptual reference books for each language.;[2:89]
+Particular;In addition, research on fraud detection showed that non-fraudulent financial disclosures had higher lexical word diversity, suggesting that particular linguistics can be more credible.;[1:119]
+Appropriate;Such expectations are grounded in interpersonal, social, and cultural norms , leading to expectations developing based on appropriate communication styles.;[1:67]
+Scope;--
+Pattern;--
+Sample;--
+Way;Linguistic features are a direct way for potential investors to get close to the entrepreneur while remaining anonymous.;[1:114]
+Technique;This range in ones' ability to persuade based on techniques fitting to their group identity is known as a senders' bandwidth.;[1:74]
+Approach;This approach allows for an near-optimal explanation based on a thorough and concise exploration of the features causing the most probable cause of funding success.;[1:40]
+Method;However, following an extensive review on communication content in crowdfunding literature , we found three omissions in the current literature: an understanding of the use of vague language in influencing crowdfunding success, a distinct analysis on both the description and the r&c section, and lastly, a method for optimizing the combination of features that will result in the highest probable causes of project success.;[1:18]
+Methodology;We imagine that using this bayesian network and genetic algorithm methodology can also optimize effective feedback as an entrepreneur is preparing a page.;[1:346]
+Research;Doing so opens an avenue in which to assess the two-sidedness proposition within crowdfunding research directly.;[1:32]
+Study;Our study addresses these with a novel method for extracting and analyzing vagueness1 within textual data obtained from kickstarter.;[1:19]
+Investigate;This study investigates a reward-based platform: kickstarter.;[1:47]
+Investigation;Although prior studies have explicitly stated the collection of r&c data , a discrete analytical investigation of each section was not made.;[1:33]
+Explore;The theoretical approach, hypotheses, method, and results are explored in the following sections.;[1:43]
+Exploration;Hence, the exploration of language is gaining increased interest in entrepreneurship literature.;[1:14]
+Analyse;Specifically, we use the significant variables found within multiple regression analyses to identify probabilistic causal features to help predict funding success.;[1:37]
+AnalysisExamine;--
+Examination;For example, examinations on the quality of the information provided on a product , social networks of the entrepreneurs , , ], and privacy cues.;[1:16]
+Consider;Consequently, we posit that crowdfunding investors will also utilize the two-sidedness of the entrepreneurs' argument to assist in their decision-making—more recent proposals on kickstarter force users to consider the r&c of their projects.;[1:31]
+Consideration;--
+Considerable considerably;--
+Account;Entrepreneurial narratives deliver a personalized account of the projects' vision while articulating the investment prospects.;[1:10]
+Perspective;From a practical perspective, our results have provided evidence of the importance of particular language used by entrepreneurs and how this has positive and negative consequences on the likelihood of receiving investment.;[1:341]
+Prospect;Entrepreneurial narratives deliver a personalized account of the projects' vision while articulating the investment prospects.;[1:10]
+Case;In that case, it is reasonable to assume that entrepreneurs lack the required knowledge to portray a credible case that deserves rational attention from potential investors.;[1:24]
+View;Upon viewing language, ones' experiences and expectations can affect the individuals' acceptance or rejection of a persuasive message.;[1:68]
+Significance;Besides, scientific reports from institutes, scientist speeches, letters, and memos can also have enormous historical significance, becoming more valuable over time.;[2:25]
+Insignifican;--
+Essential essentially;--
+Important;Accordingly, it reasons to say that the projects' narrative communicative style is as important as the idea itself in persuading investors of the entrepreneurs' credibility.;[1:12]
+Current;However, following an extensive review on communication content in crowdfunding literature , we found three omissions in the current literature: an understanding of the use of vague language in influencing crowdfunding success, a distinct analysis on both the description and the r&c section, and lastly, a method for optimizing the combination of features that will result in the highest probable causes of project success.;[1:18]
+Burning;--
+Topical;--
+Modern;--
+Up-to-date;At that, the use of resources is accompanied by the problems of rule determination for up-to-date resource copy obtaining and their conversion according to the specifics of the specific research environment.;[2:10]
+State-of-the-art;--
+General;In general, crowdfunding literature has drawn parallels with traditional investment processes using extant theories such as signaling theory and market mechanism.;[1:60]
+IdentifyIdentification;--
+Assess;Doing so opens an avenue in which to assess the two-sidedness proposition within crowdfunding research directly.;[1:32]
+Assessment;As we posited, we believe this influences investors' credibility assessment of an entrepreneur resulting in less investment.;[1:309]
+Estimate;--
+Estimation;--
+Discuss;The main entities used in the model, as well as their classes and subclasses, metadata and relation types, are highlighted and discussed in detail.;[2:163]
+DiscussionIllustrate;--
+Illustration;--
+Demonstrate;Thus, entrepreneurial narratives that demonstrate a higher score will help remove any unnecessary cognitive requirements for understanding the communication content of an entrepreneur on crowdfunding.;[1:232]
+Demonstration;--
+Show;What entrepreneurs communicate has been shown to play an essential role in crowdfunding proposals.;[1:13]
+Exhibit;--
+Perform;Functionality is set in the class: the set of documents belonging to the same class performs the same functions.;[2:50]
+Performance;--
+Carry out;--
+Conduct;--
+Calculate;D was calculated given the length of each document.;[1:210]
+Calculation;According to the calculations of american experts, from 10% to 20% of scientific research could not be carried out if the information on the studied problem had been selected correctly.;[2:5]
+Compute;Next, we computed a given node's conditional probability based upon values assigned to other nodes within the data space: a directed acyclic graph is created.;[1:263]
+Computation;The institute of computational technologies of the siberian branch of the russian academy of sciences has developed linguistic support for is in scientific and educational activities, in particular, a multilingual computer science thesaurus in accordance with z39.;[2:78]
+Measure;Based on this measurement, we operationalized the vagueness scores as the percentage of vagueness within one given document.;[1:216]
+Measurement;Based on this measurement, we operationalized the vagueness scores as the percentage of vagueness within one given document.;[1:216]
+Weigh;The probability that a document includes a given topic is given as the vector's weight based on the extracted topic's words and their associated weights within a given topic.;[1:242]
+Weight;The probability that a document includes a given topic is given as the vector's weight based on the extracted topic's words and their associated weights within a given topic.;[1:242]
+Derive;--
+Derivation;--
+Equal;Given the probability that b is not equal to zero in the bayes theorem, the conditional and marginal probabilities of a and b's are first calculated.;[1:265]
+Equation;--
+Assume;In that case, it is reasonable to assume that entrepreneurs lack the required knowledge to portray a credible case that deserves rational attention from potential investors.;[1:24]
+Assumption;Let is premised on the assumption that individuals have certain expectations formed by observing specific language behavior that is rule-based.;[1:66]
+FindFindings;--
+Support;Lastly, this is the first paper to analyze communication content with a probabilistic bayesian network-based decision support mechanism to the best of our knowledge.;[1:36]
+Challenge;Thus, nascent challenges in establishing credibility exist in abundance.;[1:6]
+Provide;Confronted with uncertainty, investors must evaluate a project based on only the information provided.;[1:5]
+Provision;As a result, scholars now investigate questions surrounding investor experience and roles, information provision mechanisms, informational value , culture and geography , and privacy assurances.;[1:53]
+Affect;Other studies have also used lexicon-based dictionaries that explore constructs such as monetary evidence, female and social aspects, and affect-based tones , , ].;[1:59]
+Effect;Vagueness is a language used in everyday discourse that signals that the communicator does not have the sufficient knowledge or understanding necessary for effective communication.;[1:20]
+Include;Examples of vagueness include qualifiers before numbers, non-numerical terms to refer to indefinite amounts, and approximation.;[1:103]
+Inclusion;--
+Involve;--
+Exclude;--
+Exclusion;--
+Develop;Such expectations are grounded in interpersonal, social, and cultural norms , leading to expectations developing based on appropriate communication styles.;[1:67]
+Development;The pioneering work of vagueness originates in the education field, where miller and his colleagues' observations in lecturing led to the development of the vagueness dictionary.;[1:96]
+Design;Kickstarter allows a wide variety of projects, including arts and design, technology, and games.;[1:48]
+Classify;The information model of the developed dis should be multi-layered and consist of the following components: data storage , metadata server, application server, the support system for controlled classifier dictionaries designed to classify resources.;[2:17]
+Classification;The application server is responsible for user service and algorithm operation support, for example, morphological analysis or clustering and classification procedures.;[2:19]
+Establish;Thus, nascent challenges in establishing credibility exist in abundance.;[1:6]
+Establishment;--
+Present;For example, suppose vague stylistic language is present.;[1:23]
+Presentation;Following the let principles, we believe this is because potential investors see vague language as less persuasive due to a lack of clarity and presentation of poor-quality information.;[1:305]
+Attempt;Two-sided persuasionthe introduction of the r&c section within the kickstarter platform was a direct attempt to nudge entrepreneurs into thinking about, deliberating on, and finally presenting any potential issues that could arise in a project.;[1:170]
+Explain;In the absence of knowing, high and low intensity and aggressive or non-aggressive language traits cannot readily explain expectancy violations of entrepreneurial narratives.;[1:82]
+Explanation;This approach allows for an near-optimal explanation based on a thorough and concise exploration of the features causing the most probable cause of funding success.;[1:40]
+Emphas;In such a situation, the development of distributed information system , unifying the process of research result sharing, will contribute to the effective interaction of geographically and organizationally distributed groups of researchers, which emphasizes the relevance of this work as a whole.;[2:13]
+Emphasis;--
+Thesis;--
+Hypothesis;Specifically, bayesian networks allow data to be probabilistically altered, so that hypothesis testing on the target node is possible.;[1:253]
+Describe;Must be described by metadata, and may also be described or supplemented with additional metadata and abstracts.;[2:33]
+Description;Investors must rely on intangible cues, such as descriptions, to comprehend the product idea.;[1:8]
+Relative;We then ran the lda model using 16 topics as n and obtained the dominance percentage of each topic relative to each document.;[1:244]
+Relevant;The work on the harmonization of data and systematization of information resources is relevant to many professional fields.;[2:8]
+Abstract;Must be described by metadata, and may also be described or supplemented with additional metadata and abstracts.;[2:33]
+Concrete;--
+Complex;In communication research, it is well known that simple language than complex language can be more effective for persuasiveness.;[1:137]
+Quantitative;--
+Qualitative;--
+Accurate;The technology for an accurate description of a web service, its address, protocol, port number used, request format and much more.;[2:124]
+Inaccurate;--
+Rough;--
+Roughly;--
+Approximate;Approximately 37% of the projects were successful and accounted for just over ten thousand projects.;[1:286]
+Approximation;Examples of vagueness include qualifiers before numbers, non-numerical terms to refer to indefinite amounts, and approximation.;[1:103]
+Approximately;Approximately 37% of the projects were successful and accounted for just over ten thousand projects.;[1:286]
+Precise;--
+Precisely;--
+Precision;--
+Exactly;--
+Apparent;--
+Potential;Another potential reason for this lies in the initial financing stages.;[1:7]
+Principal;--
+Rigorous;The use of bnm has the following advantage over the regression analyses in providing a more rigorous analysis based on causal knowledge underlying the target node.;[1:251]
+Comparativ;Comparative analysis of software for the development of repositories showed the advantages of dspace software use, which has the metadata policy based on the dublin core scheme and its extensions.;[2:168]
+Especially;As linguistics and linguistic complexity have evolved through social norms, we postulate that any departure from these, especially to a more linguistically complex investor, will result in a negative language expectancy violation, reducing the persuasiveness of the entrepreneurs' arguement.;[1:144]
+Primar;Thus, the information provided on the crowdfunding page is the primary source of factual information an investor can use.;[1:132]
+Mainly;Despite this, analysis of its individual effects, mainly when used within entrepreneurial narratives, is unexplored.;[1:22]
+Mostly;--
+Largely;--
+Direct;Platforms do not facilitate direct face-to-face communication between two parties.;[1:27]
+Indirect;--
+Frequent;--
+Eventually;--
+Ultimate;--
+Merely;--
+Hardly ever;--
+Possibl;Specifically, bayesian networks allow data to be probabilistically altered, so that hypothesis testing on the target node is possible.;[1:253]
+Probabl;However, following an extensive review on communication content in crowdfunding literature , we found three omissions in the current literature: an understanding of the use of vague language in influencing crowdfunding success, a distinct analysis on both the description and the r&c section, and lastly, a method for optimizing the combination of features that will result in the highest probable causes of project success.;[1:18]
+Basically;--
+Put forward;--
+Make up;These include, for example, the documents and publications that make up the scientific heritage, the documents that have a long legal force, patents, multimedia information about historical events, which can be requested after any period of time.;[2:24]
+Point out;--
+Point up;--
+Set out;--
+Go into;--
+Go through;--
+Amount;To date, just under 200,000 projects have been funded successfully on kickstarter, amounting to just under 19 million total backers and over 5 billion dollars of investment.;[1:50]
+Number;Examples of vagueness include qualifiers before numbers, non-numerical terms to refer to indefinite amounts, and approximation.;[1:103]
+Substantial;--
+Deal with;Within the crowdfunding r&c section, entrepreneurs are asked to provide serious deliberation on potential negative aspects of the project and how they can deal with them if they arise.;[1:161]
+Devoted to;--
+Concern;Much of the prior work concerning communication content has highlighted aspects that potential investors can use as signals of entrepreneurial credibility.;[1:15]
+Concerning;Much of the prior work concerning communication content has highlighted aspects that potential investors can use as signals of entrepreneurial credibility.;[1:15]
+Few;--
+Little;Online crowdfunding constrains users to know little about each persons' characteristics, and there is no guarantee of the entrepreneurs' true intentions.;[1:79]
+Occur;Reasons can manifest from the online nature of crowdfunding, whereby separation of entrepreneurs and investors means that information asymmetries occur.;[1:4]
+Occurrence;Next, the total occurrence of t within the corpus was calculated in eq.;[1:211]
+Refer to;Examples of vagueness include qualifiers before numbers, non-numerical terms to refer to indefinite amounts, and approximation.;[1:103]
+Reference;The resource management system requires the creation of a single reference system on the configuration and the content of the actual dis.;[2:20]
+Shed light on;Despite this, no crowdfunding research has shed light on the effect of specific semantic topics in the r&c section.;[1:180]
+In light of;--
+Highlight;Much of the prior work concerning communication content has highlighted aspects that potential investors can use as signals of entrepreneurial credibility.;[1:15]
+Crucial;It has been shown that comprehension of language that matches that of the reader's ability plays a crucial role in engaging the reader and can provide greater credibility even in circumstances of anonymity.;[1:138]
+Decisive;--
+Sufficient;Vagueness is a language used in everyday discourse that signals that the communicator does not have the sufficient knowledge or understanding necessary for effective communication.;[1:20]
+Preliminar;The research project has perspective and further areas of research for the tasks: it is planned to create the system of distributed repositories to store data and compile controlled dictionaries consisting of preliminary and explicitly defined and carefully selected terms to describe the concepts related with information resources.;[2:173]
+ComprehensiveConvenient;--
+Contribute;It has been shown that the greater use of descriptive language can contribute to the reader's ability to obtain integrated information as a more detailed description of an object can be made.;[1:123]
+Contribution;If an investor backs an entrepreneur in reward-based crowdfunding, they will receive a non-financial reward in exchange for the monetary contribution if the project is successful.;[1:49]
+Evidence;Other studies have also used lexicon-based dictionaries that explore constructs such as monetary evidence, female and social aspects, and affect-based tones , , ].;[1:59]
+Suggest;The nature of crowdfunding suggests that backers of crowdfunding projects are not investing in means that make sense within more traditional investment literature.;[1:63]
+Propose;Thus, entrepreneurial narratives have been proposed as a vital part of a crowdfunding proposal , , ].;[1:9]
+Offer;These days, crowdfunding platforms such as kickstarter offer entrepreneurs and artists a novel and vital means of procuring finance for new innovative ideas.;[1:1]
+A great deal of;--
+A wide range of;--
+To … (some) extent;--
+In a variety of ways;--
+Aim;In the information system aimed at scientific and educational activity support, it is important to keep the description of the entire life cycle of information resources and to be able to restore the resource state at any time.;[2:22]
+Purpose;The purpose of the system is to satisfy two types of information needs from researchers: the need for information about the sources of necessary scientific information and the need for the most necessary scientific information.;[2:161]
+Goal;--
+Objective;--
+Intend;The public_cat table contains the bib_description column, which is intended to implement hard binding of publications to this dictionary entry.;[2:98]
+In terms of;Within each entrepreneurial narrative context ), our study showed that certain expectations from investors in terms of the communication content used by entrepreneurs was significantly influential upon the investor's investment decision.;[1:301]
+With respect to;--
+With regard to;--
+In respect of;--
+Outline;--
+Summary;A summary of the descriptive statistics is presented in table 3.;[1:285]
+Summarize;Next, we manually summarized topics obtained based on their clarity to the task and used the dominance percentage to measure its influence in each document.;[1:245]
+Obtain;Our study addresses these with a novel method for extracting and analyzing vagueness1 within textual data obtained from kickstarter.;[1:19]
+Determine;Paragraph structure is determined by how much information an entrepreneur provides in their communication content.;[1:130]
+Produce;Contranyms are words that have two contradictory meanings and produced a lexicon consisting of 176 words.;[1:203]
+Production;Lastly, each topic obtained was then labeled to represent a semantic topic in each project r&c: “external needs,” “design and development,” and “production delays.;[1:247]
+Create;This study attempts to identify the semantic topics that create a successful two-sided argument within entrepreneurial narratives.;[1:181]
+Creation;The creation of technology for dis prototype development to support research with the integration of data into an open semantic space is achieved by the following task solution:the development of conceptual models for information resource storage system.;[2:14]
+Make use of;--
+Extensive;However, following an extensive review on communication content in crowdfunding literature , we found three omissions in the current literature: an understanding of the use of vague language in influencing crowdfunding success, a distinct analysis on both the description and the r&c section, and lastly, a method for optimizing the combination of features that will result in the highest probable causes of project success.;[1:18]
+Careful;As they are not dependent on the entrepreneurs' expectations on what the investors may or may not expect, entrepreneurs have flexibility in their linguistic style by carefully planning and rehearsing their proposal.;[1:115]
+Detailed;It has been shown that the greater use of descriptive language can contribute to the reader's ability to obtain integrated information as a more detailed description of an object can be made.;[1:123]
+In detail;The main entities used in the model, as well as their classes and subclasses, metadata and relation types, are highlighted and discussed in detail.;[2:163]
+Thorough;This approach allows for an near-optimal explanation based on a thorough and concise exploration of the features causing the most probable cause of funding success.;[1:40]
+Thoroughly;--
+Remarkable;--
+Striking;--
+Consist in;--
+Consist of;The information model of the developed dis should be multi-layered and consist of the following components: data storage , metadata server, application server, the support system for controlled classifier dictionaries designed to classify resources.;[2:17]
+Contain;It is measured by counting the number of notional words, including verbs, adverbs, and nouns contained within a crowdfunding page.;[1:220]
+Comprise;--
+Yield;--
+Generate;--
+Allow;This approach allows for an near-optimal explanation based on a thorough and concise exploration of the features causing the most probable cause of funding success.;[1:40]
+Enable;--
+Ensure;--
+Permit;--
+Modif;50 protocol and the modified zthes data scheme.;[2:79]
+Alter;Given this, the use of traditional entrepreneurial and investment theories may not provide the fundamental principles needed to understand crowdfunding, requiring the search for an alternative theoretical lens.;[1:64]
+Enhance;The effective use of linguistics has been seen in p2p lending, where appropriate linguistics led to enhanced persuasion and increased lending behavior.;[1:118]
+Similar;Before using lda, the text was analyzed using the coherence value to discover the degree of semantic similarity between words with high scores within models containing topics ranging from 2 to 400.;[1:240]
+SimilarityVerif;--
+While;Entrepreneurial narratives deliver a personalized account of the projects' vision while articulating the investment prospects.;[1:10]
+Whereas;For instance, privileged groups may use more aggressive language that ranges in low to high intensity and remain persuasive, whereas the same cannot be said for nonprivileged groups.;[1:73]
+Since;Since the information object is a resource, it inherits all of the abovementioned properties of the resource, i.;[2:39]
+For;These days, crowdfunding platforms such as kickstarter offer entrepreneurs and artists a novel and vital means of procuring finance for new innovative ideas.;[1:1]
+Initially;--
+Finally;Two-sided persuasionthe introduction of the r&c section within the kickstarter platform was a direct attempt to nudge entrepreneurs into thinking about, deliberating on, and finally presenting any potential issues that could arise in a project.;[1:170]
+Following;However, following an extensive review on communication content in crowdfunding literature , we found three omissions in the current literature: an understanding of the use of vague language in influencing crowdfunding success, a distinct analysis on both the description and the r&c section, and lastly, a method for optimizing the combination of features that will result in the highest probable causes of project success.;[1:18]
+Subsequently;--
+Although;Although many success stories exist, perfecting a proposal is not easy.;[1:2]
+Despite;Despite this, analysis of its individual effects, mainly when used within entrepreneurial narratives, is unexplored.;[1:22]
+In spite of;--
+Instead;Instead, it combines the preordained expectations determined by the online setting and context and how these are violated using affect within entrepreneurial narratives.;[1:156]
+Nevertheless;--
+On the contrary;--
+contrast;In contrast, the r&c section is designed for entrepreneurs to display potential adverse outcomes.;[1:159]
+On the one hand, on the other hand;--
+Furthermore;Furthermore, their investments amount to small financial capital compared to traditional sources.;[1:62]
+Moreover;Moreover, we have shown that even if an entrepreneur has a good idea, the way they present the idea through the careful choice of specific language may also be important in determining investment.;[1:342]
+Due to;Consequently, investors will avoid these entrepreneurial ideas due to issues of credibility.;[1:25]
+In order to;To do this, the corresponding data provider is called in order to obtain this information according to the algorithm shown in fig.;[2:158]
+Hence;Hence, the exploration of language is gaining increased interest in entrepreneurship literature.;[1:14]
+Therefore;Therefore, the study of vagueness within crowdfunding communication content is of value too.;[1:98]
+Provided that;--
+Unless;--

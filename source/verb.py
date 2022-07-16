@@ -1,12 +1,12 @@
-import os
+import pathlib
 import re
 
-dir = os.path.dirname(__file__) + '\TXT\\'
+dir = str(pathlib.Path.cwd()) + '\TXT\\'
 
 def verb():
     words = open(dir + r'words.txt', 'r').read().splitlines()
     arts = open(dir + r'articles.txt', 'r').read().split('###')
-    out_file = open(dir + r'out.txt', 'w')
+    out_file = open(dir + r'out.txt', 'w+')
 
     out_words = dict()
     for w in words:

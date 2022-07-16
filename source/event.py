@@ -1,12 +1,14 @@
 # -*- coding: cp1251 -*-
 import os
+import pathlib
 from subprocess import call
 from verb import *
 import tkinter.messagebox as mb
 
-dir = os.path.dirname(__file__) + '\TXT\\'
+dir = str(pathlib.Path.cwd()) + '\TXT\\'
 
 def open_words():
+    print(dir)
     call(['notepad', dir + r'words.txt'])
 
 def open_articles():
