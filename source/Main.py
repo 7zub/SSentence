@@ -1,6 +1,7 @@
 # -*- coding: cp1251 -*-
 from tkinter import RIGHT, Button, Tk, BOTH, X, N, LEFT
 from tkinter.ttk import Frame, Label
+from turtle import bgcolor
 from event import *
 
 class Main(Frame):
@@ -35,10 +36,17 @@ class Main(Frame):
 
         btn_search = Button(frame3, text='Искать!', command=exec_verb)
         btn_search.pack(side=LEFT, padx=5, pady=5)
+        
+        frame4 = Frame(self)
+        frame4.pack(fill=X)
+
+        label = Label(frame4, text='GitHub', cursor='hand2', background='#8faaee')
+        label.pack(side=RIGHT)
+        label.bind('<Button-1>', callback)
 
 def main():
     root = Tk()
-    root.geometry('540x300+300+300')
+    root.geometry('540x200+400+400')
     app = Main()
     root.mainloop()
 

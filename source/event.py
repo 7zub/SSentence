@@ -2,6 +2,7 @@
 import os
 import pathlib
 from subprocess import call
+import webbrowser
 from verb import *
 import tkinter.messagebox as mb
 
@@ -21,6 +22,9 @@ def exec_verb():
         call(['notepad', dir + r'out.txt'])
     except Exception as e:
         mb.showerror('Ошибка!', 'Не удалось выполнить поиск: ' + str(e))
+
+def callback(event):
+    webbrowser.open_new(r'https://github.com/7zub/SSentence')
 
 
 try:
