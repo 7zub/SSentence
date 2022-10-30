@@ -22,7 +22,7 @@
 # Сборка exe-шника
 Ввести в консоли:
 
-`pip install pyinstaller` - установка библиотки для сборки exe-файла
+`pip install pyinstaller` - установка библиотеки для сборки exe-файла
 
 `pyinstaller --onefile --windowed source/Main.py` - команда для сборки exe-файла
 
